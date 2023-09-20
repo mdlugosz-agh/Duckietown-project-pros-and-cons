@@ -8,3 +8,5 @@ article-pl.fdb_latexmk
 article-en.synctex.gz
 article-en.out
 article-en.pdf
+article-en.bbl
+article-en.blg
